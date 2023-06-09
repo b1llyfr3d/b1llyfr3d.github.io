@@ -86,6 +86,7 @@
 		<h1>Template </h1>
                 <p>
                 	"some text..."
+			<?php echo "PHP"; ?>
 		</p>
 	</section>
 	<footer>
